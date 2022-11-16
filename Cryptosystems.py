@@ -1,10 +1,8 @@
 '''
-_____SECTION 3_____
-Group members
-Abraham Wendmeneh...UGR/9155/13
-Biruktawit Abera....UGR/9634/13 
-Ebissa Chemeda......UGR/1032/13
-Esayas Nigussie.....UGR/5132/13
+Affine cipher
+Transposition cipher
+RSA cipher
+2nd yr...
 '''
 
 
