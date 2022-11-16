@@ -8,6 +8,7 @@ via the python console. After the user enters the string, the program will ask t
 of cryptosystem to run from given alternatives i.e affine, transposition and RSA. The user replies to it 
 using the integers 1, 2, 3 coresponding to the above cryptosystems respectively. Next, the user will be 
 required to choose mode i.e. encryption/decryption.
+
 	I. If the user has chosen 1(affine): To encrypt a string the user must provide encryption keys a, b which are 
 		in the set {0, 1, ...25} and gcd(a,26)=1 and then the encrypted text will be printed out to the screen.
 
